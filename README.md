@@ -14,4 +14,20 @@
 |k|up, one line|
 |l|right, one space|
 |4j|down, four lines (same pattern with other mvmt)|
+|:set wm=10|set wrap margin (line wrapping) to 10 characters|
+|0|Move to beginning of line|
+|$|Move to end of line|
+|w|move forward one word|
+|W|strictly move forward by one word (no special chars)|
+|b|move backwards by one word|
+|B|stricty move backwards by one word|
+|G|moves to end of file, or specific line like 3G|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
 
