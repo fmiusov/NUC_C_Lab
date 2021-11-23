@@ -9,4 +9,9 @@
 |:w!|overwrite existing file|
 |Esc|enter command mode / beep mode|
 |i|enter insert mode|
+|h|left, one space|
+|j|down, one line|
+|k|up, one line|
+|l|right, one space|
+|4j|down, four lines (same pattern with other mvmt)|
 
