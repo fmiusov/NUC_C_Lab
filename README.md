@@ -9,8 +9,4 @@
 |:w!|overwrite existing file|
 |Esc|enter command mode / beep mode|
 |i|enter insert mode|
-|       |        |
-|    |         |
-|       |        |
-|    |         |
 
