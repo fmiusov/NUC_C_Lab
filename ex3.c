@@ -1,3 +1,4 @@
+// import stdio.h to get access to basic functions like printf
 #include <stdio.h>
 
 int main()
