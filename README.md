@@ -22,12 +22,20 @@
 |b|move backwards by one word|
 |B|stricty move backwards by one word|
 |G|moves to end of file, or specific line like 3G|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+
+| GDB Keystrokes      | Description |
+| ----------- | ----------- |
+|run [args]|start program with [args]|
+|break [file:]function|set a breakpoint at location|
+|backtrace|dump a backtrace of the current calling stack|
+|print expr|print value of expr|
+|continue|continue running program|
+|next|next line but step OVER function calls|
+|step|next line but step INTO function calls|
+|quit|exit debugger|
+|clear|clear a breakpoint|
+|info break, info watch|show info about breakpoints and watchpoints|
+|attach pid|attach to a running process so you can debug it|
+|detach|detach from process|
+|list|list out the next ten source lines|
 
